@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Brandon Viana ✌️
+Atualmente estou estudando e me aprofundando em algumas linguagens para seguir como desenvolvedor de software 😊
 
 
 ## Tecnologias que uso no meu dia
